@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SMSBackup</string>
+    <string name="chkInbox">inbox</string>
+    <string name="chkSent">sent</string>
+    <string name="chkDraft">draft</string>
+    <string name="btnLoad">Load</string>
+    <string name="btnSave">Save</string>
+    <string name="btnDrop">Drop</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnNewFolder">New folder</string>
+    <string name="enterFileName">Enter file name</string>
+    <string name="opDone">Job done</string>
+    <string name="errWr">Error during writing: </string>
+    <string name="titleD">Deleting</string>
+    <string name="titleS">Saving</string>
+    <string name="titleL">Loading</string>
+</resources>
